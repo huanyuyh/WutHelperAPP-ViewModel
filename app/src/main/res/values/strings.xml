@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">HYCNEW</string>
+    <string name="web_back">back</string>
+    <string name="web_forward">forward</string>
+    <string name="web_home">home</string>
+    <string name="web_refresh">refresh</string>
+    <string name="web_more">more</string>
+    <string name="web_activtiy_back">backMain</string>
+    <string name="web_go">goUrl</string>
+    <string name="web_site_more">webSiteMore</string>
+    <string name="open_boswer">open in boswer</string>
+    <string name="user_save">save</string>
+    <string name="user_page_title"><![CDATA[user&pass]]></string>
+    <string name="user_add">new user</string>
+    <string name="user">username</string>
+    <string name="pass">password</string>
+    <string name="insertButton">insert</string>
+    <string name="clearButton">clear</string>
+    <string name="cancelButton">cancel</string>
+    <string name="title_table">table</string>
+    <string name="title_home">home</string>
+    <string name="title_dashboard">services</string>
+    <string name="title_notifications">notify</string>
+    <string name="user_settings">user_settings</string>
+    <string name="course_import">import</string>
+    <string name="course_list">course_list</string>
+    <string name="course_setting">settings</string>
+    <string name="course_more">more</string>
+    <string name="vscrollView">it can scroll down</string>
+    <string name="course_add">add_course</string>
+    <string name="week_demo">first week</string>
+    <string name="app_settings">app_set</string>
+    <string name="home_title">nice will happen</string>
+    <string name="saveButton">save</string>
+    <string name="requestButton">request</string>
+</resources>
